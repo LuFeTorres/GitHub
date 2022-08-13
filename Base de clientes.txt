@@ -1,2 +1,4 @@
 NumeroFactura, Nombre, Apellido, Documento, Direccion, Correo
 1, Pepito, Perez, 123, CLL 13, Pepito@perez.com
+2, Fulanito, Detal, 456, Cra 10, fulanit@detal.com
+3. Jhon, Doe, 789, 1ro de Mato, john@doe.com
